@@ -14,3 +14,5 @@ Original AppleScript and instructions [here](http://marcovaltas.com/2012/10/09/s
 * Keychain Item Name and Account Name should both be `rsatoken`
 * Password field is your PIN for RSA Token generation (what you initially type in to SecurID)
 
+Download the .app (application file for mac)
+https://www.dropbox.com/s/wq5gomjtx6jl5sc/rsa-generator.app.zip?dl=0
