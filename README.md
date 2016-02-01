@@ -5,7 +5,7 @@ Original AppleScript and instructions [here](http://marcovaltas.com/2012/10/09/s
 
 #Instructions:
 
-### TL;DR Add a key named "rsatoken" to your Keychain with your pin as password.
+### TL;DR Add a key named "rsatoken" to your Keychain under "login" category with your pin as password.
 
 * Go to "Keychain Access" Application
 * Go to top left and click the lock (enter user/pass to unlock these settings)
