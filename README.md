@@ -9,7 +9,7 @@ Original AppleScript and instructions [here](http://marcovaltas.com/2012/10/09/s
 
 * Go to "Keychain Access" Application
 * Go to top left and click the lock (enter user/pass to unlock these settings)
-* Click on "Passwords" under the "Category" bar
+* Click on "Passwords" under the "Category" bar (NOTE: Make sure you're under the "login" selection under "Keychains" on the top left)
 * Go to the bottom panel and click the big "+" to add a new password
 * Keychain Item Name and Account Name should both be `rsatoken`
 * Password field is your PIN for RSA Token generation (what you initially type in to SecurID)
