@@ -14,6 +14,7 @@ AppleScript that auto-runs your RSA token and copies it for you! Saving you tons
 
 ### TL;DR Add a key named "rsatoken" to your Keychain under "login" category with your pin as password.
 
+* [Download the auto-rsa app](http://bit.ly/autorsa)
 * Go to "Keychain Access" Application
 * Go to top left and click the lock (enter user/pass to unlock these settings)
 * Click on "Passwords" under the "Category" bar (NOTE: Make sure you're under the "login" selection under "Keychains" on the top left)
