@@ -21,5 +21,5 @@ AppleScript that auto-runs your RSA token and copies it for you! Saving you tons
 * Keychain Item Name and Account Name should both be `rsatoken`
 * Password field is your PIN for RSA Token generation (what you initially type in to SecurID)
 
-Download the .app (application file for mac)
-https://www.dropbox.com/s/wq5gomjtx6jl5sc/rsa-generator.app.zip?dl=0
+Download the .zip (application file for mac; bit.ly url for download tracking)
+bit.ly/rsagenerator
