@@ -5,6 +5,11 @@ AppleScript that auto-runs your RSA token and copies it for you! Saving you tons
 
 * Have issues with your RSA token? [Check out the RSA Self Service site](https://tokenaccess.corp.ebay.com/)!
 
+#Latest Updates
+* Added Notification when copy is successful
+* Closes SecurID Application when completed
+
+
 #Instructions:
 
 ### TL;DR Add a key named "rsatoken" to your Keychain under "login" category with your pin as password.
