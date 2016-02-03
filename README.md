@@ -3,8 +3,6 @@ AppleScript that auto-runs your RSA token and copies it for you! Saving you tons
 
 * [Original AppleScript and instructions](http://marcovaltas.com/2012/10/09/scripting-token-retrieval-on-osx.html). 
 
-* Have issues with your RSA token? [Check out the RSA Self Service site](https://tokenaccess.corp.ebay.com/)!
-
 #Latest Updates
 * Added Notification when copy is successful
 * Closes SecurID Application when completed
