@@ -20,9 +20,9 @@ AppleScript that auto-runs your RSA token and copies it for you! Saving you tons
 * Go to the bottom panel and click the big "+" to add a new password
 * Keychain Item Name and Account Name should both be `rsatoken`
 * Password field is your PIN for RSA Token generation (what you initially type in to SecurID)
-* [Download the auto-rsa app](http://bit.ly/autorsa)
+* [Download the auto-rsa app](http://go/autorsa)
 * Unzip and put into /Applications folder
 * Run!
 
-[Download](http://bit.ly/autorsa) (.zip)
+[Download](http://go/autorsa) (.zip)
 
